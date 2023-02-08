@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dKVjiSaFHIXoVG6yCETuuRM8Gacpe8C+0RuMrfWwEblUTiakhEdfodz3hhGmn/uxJobsZc7IQHwPHGxlCUKe7g==",
+  "dgSpecHash": "RyG85kuNuZlvxCokXeyYJShsoM94JW82i5vQNiMG/iongv96MP8RE6IWjdwijpN7RJfBh/8DtKDQSzyVpLrj+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marti\\Desktop\\Марти Проекти\\DogApp-main\\DogApp\\DogApp.csproj",
+  "projectFilePath": "C:\\Users\\Marti\\Documents\\DogApp\\DogApp\\DogApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marti\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",

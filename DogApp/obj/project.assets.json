@@ -7717,11 +7717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marti\\Desktop\\Марти Проекти\\DogApp-main\\DogApp\\DogApp.csproj",
+      "projectUniqueName": "C:\\Users\\Marti\\Documents\\DogApp\\DogApp\\DogApp.csproj",
       "projectName": "DogApp",
-      "projectPath": "C:\\Users\\Marti\\Desktop\\Марти Проекти\\DogApp-main\\DogApp\\DogApp.csproj",
+      "projectPath": "C:\\Users\\Marti\\Documents\\DogApp\\DogApp\\DogApp.csproj",
       "packagesPath": "C:\\Users\\Marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marti\\Desktop\\Марти Проекти\\DogApp-main\\DogApp\\obj\\",
+      "outputPath": "C:\\Users\\Marti\\Documents\\DogApp\\DogApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
