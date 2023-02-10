@@ -1,0 +1,9 @@
+C:\Users\Marti\Documents\DogApp\BookStore\BookStore\obj\Debug\net5.0\BookStore.csproj.AssemblyReference.cache
+C:\Users\Marti\Documents\DogApp\BookStore\BookStore\obj\Debug\net5.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\Documents\DogApp\BookStore\BookStore\obj\Debug\net5.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\Marti\Documents\DogApp\BookStore\BookStore\obj\Debug\net5.0\BookStore.AssemblyInfo.cs
+C:\Users\Marti\Documents\DogApp\BookStore\BookStore\obj\Debug\net5.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Marti\Documents\DogApp\BookStore\BookStore\obj\Debug\net5.0\BookStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marti\Documents\DogApp\BookStore\BookStore\obj\Debug\net5.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marti\Documents\DogApp\BookStore\BookStore\obj\Debug\net5.0\BookStore.RazorAssemblyInfo.cache
+C:\Users\Marti\Documents\DogApp\BookStore\BookStore\obj\Debug\net5.0\BookStore.RazorAssemblyInfo.cs
