@@ -60,7 +60,7 @@ namespace DogApp.Controllers
 
         public IActionResult All(string searchStringBreed, string searchStringName)
         {
-            List<DogAllViewModel> dogs = _dogService.GetDogs()
+            List<DogAllViewModel> dogs = _dogService.GetDogs(searchStringBreed, searchStringName)
         
           .Select(dogFromDb => new DogAllViewModel
           { 
@@ -70,19 +70,7 @@ namespace DogApp.Controllers
                Breed = dogFromDb.Breed,
                Picture = dogFromDb.Picture
         }).ToList();
-            if (!string.IsNullOrEmpty(searchStringBreed) && !string.IsNullOrEmpty(searchStringName))
-            {
-
-                dogs =dogs.Where(d => d.Breed.Contains(searchStringBreed) && d.Name.Contains(searchStringName)).ToList();
-            }
-            else if (!string.IsNullOrEmpty(searchStringBreed))
-            {
-                dogs = dogs.Where(d => d.Breed.Contains(searchStringBreed)).ToList();
-            }
-            else if (!string.IsNullOrEmpty(searchStringName))
-            {
-                dogs =dogs.Where(d => d.Name.Contains(searchStringName)).ToList();
-            }
+          
             return this.View(dogs);
 
 
